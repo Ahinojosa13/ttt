@@ -28,11 +28,9 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.square{
+  height: 200px;
+  width: 200px;
+  border: 2px solid white;
+  font-size: 4rem;
 }
